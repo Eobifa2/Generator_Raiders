@@ -1,6 +1,4 @@
-// Written by Nick Koumaris
-//info@educ8s.tv
-//educ8s.tv
+
 
 #include <Adafruit_SSD1306.h>  
 #include <Adafruit_GFX.h>
